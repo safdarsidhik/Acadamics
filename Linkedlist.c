@@ -62,6 +62,7 @@ void create() {
         if (head == NULL) {
             head = newnode;
             temp = head;
+
         } else {
             temp->next = newnode;
             temp = newnode;
@@ -72,6 +73,8 @@ void create() {
     }
 }
 
+
+//althul//
 void display() {
     temp = head;
     if (temp == NULL) {
