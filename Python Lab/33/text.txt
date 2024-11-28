@@ -1,0 +1,6 @@
+name: Safdar
+age: 22
+mail id: safdar@gmail.com
+name: Safniya
+age: 19
+mail id:safniya@gmail.com
